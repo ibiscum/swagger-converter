@@ -13,7 +13,7 @@
     <prerequisites>
         <maven>2.2.0</maven>
     </prerequisites>
-    <url>https://github.com/swagger-api/swagger-converter</url>
+    <url>https://github.com/ibiscum/swagger-converter</url>
     <distributionManagement>
         <snapshotRepository>
             <id>ossrh</id>
